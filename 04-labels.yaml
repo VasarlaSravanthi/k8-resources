@@ -7,6 +7,6 @@ metadata:
    envi: dev
    purpose: POC
 spec:
- container:
+ containers:
  - name: nginx
    image: nginx
